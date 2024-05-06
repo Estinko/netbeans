@@ -9,5 +9,6 @@ package com.mycompany.mavenproject2;
  * @author payan
  */
 public class NewClass {
-    
+        String adios;
+
 }
